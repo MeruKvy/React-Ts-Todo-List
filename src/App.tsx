@@ -2,7 +2,7 @@ import { Window } from "./components/Window";
 
 function App() {
   return (
-    <div className="app">
+    <div>
       <Window/>
     </div>
   );
